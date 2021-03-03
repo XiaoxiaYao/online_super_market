@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     # Other project modules
     'users.apps.UsersConfig',
     'goods.apps.GoodsConfig',
+    'trade.apps.TradeConfig',
 ]
 
 MIDDLEWARE = [
